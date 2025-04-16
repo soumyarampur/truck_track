@@ -1,0 +1,9 @@
+.vs/
+WheelTrack.API/obj/
+WheelTrack.API/bin/
+WheelTrack.Core/obj/
+WheelTrack.Core/bin/
+WheelTrack.DAL/obj/
+WheelTrack.DAL/bin/
+WheelTrack.Service/obj/
+WheelTrack.Service/bin/
